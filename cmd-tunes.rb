@@ -1,8 +1,8 @@
 class CmdTunes < Formula
   desc "Play a snippet of music after long terminal commands"
   homepage "https://github.com/yinganwang/cmdtunes"
-  url "https://github.com/yinganwang/cmdtunes/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8eb28bfeb514a32390d4f9fb436ddb435fe328c7"
+  url "https://github.com/yinganwang/cmdtunes/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "3c4754d310cd341a517b7f99f1f2893fc010eacf"
   license "MIT"
 
   # If you need any dependencies you could add here.
